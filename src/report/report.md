@@ -7,7 +7,7 @@
 На тестирование затрачено: 6 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [Ссылка на issues](https://github.com/Stanislav-Litvinov/BankVip/issues/1) 
+* [Выход за границу типа данных при вычислении пополнения счёта](https://github.com/Stanislav-Litvinov/BankVip/issues/1) 
 
 ## Описание процесса тестирования
 
